@@ -1,7 +1,8 @@
 ﻿  Main.c
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(15,25): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(15,26): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
 F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(15,23): warning C4024: 'printf': different types for formal and actual parameter 1
 F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(23,23): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
 F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(23,20): warning C4024: 'printf': different types for formal and actual parameter 1
 F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(12,6): warning C4101: 'arrNumber2': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(197): warning C4717: 'Bai4DeQuy1': recursive on all control paths, function will cause runtime stack overflow
   Bai_1_BaiOnTapTongHop.vcxproj -> F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Debug\Bai_1_BaiOnTapTongHop.exe

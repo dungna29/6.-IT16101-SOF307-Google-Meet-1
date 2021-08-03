@@ -1,4 +1,5 @@
 ﻿#include <stdio.h>
+#include <string.h>
 void Bai1KhaiBaoMang()
 {
 	/*1. Khai báo mảng
@@ -203,9 +204,85 @@ void Bai4DeQuy1(int i)
 		Bai4DeQuy1(i);
 	}	
 }
-
+//Bài tập đệ quy sử dụng đệ quy để in mảng ra màn hình 12h21
+void inMang(int arr[],int i)
+{
+	if (i < 5)
+	{
+		printf("%d ", arr[i]);
+		i++;
+		inMang(arr, i);
+	}	
+}
+int TongCacSoTrongMang(int i,int kq)
+{
+	int arrNumb[] = { 44,22,55,33,11 };//=?
+	if (i<5)
+	{
+		kq += arrNumb[i];
+		i++;
+		TongCacSoTrongMang(i, kq);		 
+	}
+	return kq;
+}
+void TongCacSoTrongMang2(int i, int kq)
+{
+	int arrNumb[] = { 44,22,55,33,11 };//=?
+	if (i < 5)
+	{
+		kq += arrNumb[i];
+		i++;
+		TongCacSoTrongMang2(i, kq);
+	}
+	printf("%d \n", kq);
+}
+/* struct trong lập trình C gọi là kiểu dữ liệu do người dùng tự định nghĩa
+  * struct structureName
+	 {
+		 dataType member1;
+		 dataType member2;
+		 ...
+	 };
+  */
+struct SinhVien
+{
+	int maSV;
+	char ho[10];
+	char ten[20];
+	int gioiTinh;
+	
+};
 int main()
 {
-	//In câu này 10 lần
-	Bai4DeQuy1(0);
+	// int arrNumb[] = { 44,22,55,33,11 };
+	// //inMang(arrNumb, 0);
+	// //printf("%d", TongCacSoTrongMang(0, 0));
+	// TongCacSoTrongMang2(0, 0);
+
+	
+	//Sử dụng Struct
+	struct SinhVien sv1, sv2;
+	sv1.maSV = 001;
+
+	//Khai báo mảng struct
+	struct SinhVien sv[100];
+
+	//Cách gán giá trị cho mảng char
+	char temp[7] = {'N','G','U','Y','E','N',0};//Cần số 0 để kết thúc
+	for (int i = 0; i < 7; i++)
+	{
+		sv1.ho[i] = temp[i];
+	}
+	for (int i = 0; i < 7; i++)
+	{
+		printf("%c", sv1.ho[i]);
+	}
+
+	//Sử dụng thư viện string.h
+	strcpy_s(sv1.ho, 10, "Hoang");
+	for (int i = 0; i < strlen(sv1.ho); i++)
+	{
+		printf("%c", sv1.ho[i]);
+	}
+	
 }

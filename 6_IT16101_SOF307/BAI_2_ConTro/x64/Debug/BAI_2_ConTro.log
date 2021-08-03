@@ -1,0 +1,20 @@
+﻿  Main.c
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(48,7): warning C4101: 'point': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(54,6): warning C4101: 'a': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(55,7): warning C4101: 'prt1': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(59,7): warning C4101: 'prt5': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(59,13): warning C4101: 'b': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(56,10): warning C4101: 'prt2': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(58,8): warning C4101: 'prt4': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(57,9): warning C4101: 'prt3': unreferenced local variable
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(109,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(109,9): message : consider using '%zd' in the format string
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(110,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(110,9): message : consider using '%zd' in the format string
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(111,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(111,9): message : consider using '%zd' in the format string
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(112,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(112,9): message : consider using '%zd' in the format string
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(113,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\BAI_2_ConTro\Main.c(113,9): message : consider using '%zd' in the format string
+  BAI_2_ConTro.vcxproj -> F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\x64\Debug\BAI_2_ConTro.exe

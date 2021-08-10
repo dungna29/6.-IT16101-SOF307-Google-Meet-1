@@ -1,10 +1,1 @@
-﻿  Main.c
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(16,26): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(16,23): warning C4024: 'printf': different types for formal and actual parameter 1
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(24,23): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(24,20): warning C4024: 'printf': different types for formal and actual parameter 1
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(13,6): warning C4101: 'arrNumber2': unreferenced local variable
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(283,20): warning C4018: '<': signed/unsigned mismatch
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(264,23): warning C4101: 'sv2': unreferenced local variable
-F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Bai_1_BaiOnTapTongHop\Main.c(268,18): warning C4101: 'sv': unreferenced local variable
-  Bai_1_BaiOnTapTongHop.vcxproj -> F:\Dungna29 Fpoly\8. Demo\CauTrucDuLieuVaGiaiThuat\6.-IT16101-SOF307-Google-Meet-1\6_IT16101_SOF307\Debug\Bai_1_BaiOnTapTongHop.exe
+﻿
